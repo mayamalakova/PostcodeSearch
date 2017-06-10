@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="PostcodeSearch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PostcodeSearch_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PostcodeSearch.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="PostcodeSearch" />
+      </element>
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-codec-1.9.jar gson-2.8.0.jar httpclient-4.5.3.jar 
+ commons-logging-1.2.jar httpcore-4.4.6.jar
+Main-Class: com.maya.postcode.PostcodeSearchApplication
+
